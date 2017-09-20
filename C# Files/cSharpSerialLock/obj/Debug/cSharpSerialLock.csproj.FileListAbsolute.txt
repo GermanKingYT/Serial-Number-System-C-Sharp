@@ -1,0 +1,9 @@
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\bin\Debug\cSharpSerialLock.exe.config
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\bin\Debug\cSharpSerialLock.exe
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\bin\Debug\cSharpSerialLock.pdb
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.csprojResolveAssemblyReference.cache
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.Form1.resources
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.Properties.Resources.resources
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.csproj.GenerateResource.Cache
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.exe
+c:\users\darcy\documents\visual studio 2017\Projects\cSharpSerialLock\cSharpSerialLock\obj\Debug\cSharpSerialLock.pdb
