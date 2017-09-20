@@ -2,6 +2,8 @@
 
 A remake of https://github.com/ThaisenPM/Serial-Number-System in C#
 
+5.4289235e+26 total serial keys
+
 # Serial Number System
 
 An extremely basic serial number and HWID lock system for selling VB.NET and C# programs! Read me is only for VB.NET, but is stupidly close to the C# one. Have fun!
