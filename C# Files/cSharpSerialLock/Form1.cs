@@ -27,6 +27,13 @@ namespace cSharpSerialLock
             check = false;
             hwid = HWDI.GetMachineGuid();
             textBox2.Text = hwid;
+            
+            var ping = new System.Net.NetworkInformation.Ping();
+
+            var result = ping.Send("www.yoursite.com");
+
+            if (result.Status != System.Net.NetworkInformation.IPStatus.Success)
+                return;
 
             if (Properties.Settings.Default.Installed == true)
             {
@@ -78,6 +85,13 @@ namespace cSharpSerialLock
                     timer1.Stop();
                     button1.Enabled = true;
                     MessageBox.Show("No serial with that key");
+                else if (webBrowser1.DocumentText.Contains("Object not found"))
+                {
+                    check = false;
+                    timer1.Stop();
+                    button1.Enabled = true;
+                    MessageBox.Show("404: Page not found");
+                }
                 }
             }
         }
